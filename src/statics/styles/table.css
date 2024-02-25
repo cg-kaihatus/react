@@ -1,0 +1,6 @@
+.td-title .inside-menu {
+    display: none;
+}
+.td-title:hover .inside-menu {
+    display: block;
+}
