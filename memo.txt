@@ -1,0 +1,19 @@
+npx create-react-app emw --template typescript
+npm install react-router-dom @types/react-router-dom
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material
+npm i @mui/joy
+npm install --save react-swipeable-views
+npm install --save react-split
+npm install --save react-dropzone
+
+
+
+npm install --save-dev @babel/plugin-proposal-private-property-in-object
+
+
+----------------------------
+react@18.2.0
+typescript": "^4.9.5",
+react-router-dom": "^6.13.0"
+@mui/material": "^5.13.5"
